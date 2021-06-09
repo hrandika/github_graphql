@@ -1,0 +1,4 @@
+rootProject.name = "GithubProfile"
+include ':app'
+include ':core'
+include ':profile'
